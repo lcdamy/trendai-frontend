@@ -16,7 +16,7 @@ Now you can proceed to project installation.
 # move to the trendai-frontend folder install all packages
 > cd trendai-frontend
 > npm install
-# copy env.example to .env
+# copy .env.example to .env
 > cp env.example .env
 # modify the DB environment accordingly
 ```  
