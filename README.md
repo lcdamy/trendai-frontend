@@ -14,7 +14,7 @@ Now you can proceed to project installation.
 # Clone the project
 > git clone git@github.com:lcdamy/trendai-frontend.git
 # move to the trendai-frontend folder install all packages
-> cd trendai-backend
+> cd trendai-frontend
 > npm install
 # copy env.example to .env
 > cp env.example .env
